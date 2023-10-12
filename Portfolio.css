@@ -1,0 +1,121 @@
+.bg-container{
+    background-color:white;
+    font-family:Roboto;
+
+}
+.greeting-card{
+    height:60vh;
+    width:50%;
+    background-color:white;
+    margin-top:80px;
+    border-radius:5px;
+}
+.name{
+    color:rgb(240, 254, 255);
+    text-align:center;
+    
+}
+.About{
+    color:rgb(16, 107, 164);
+    font-size:20px;
+    margin:10px;
+
+}
+.about-me{
+    color:aqua;
+    text-decoration:underline;
+    font-size:20px;
+    font-weight:bold;
+    margin-left:15px;
+    
+}
+.greetings{
+    color:darkkhaki;
+    font-size:40px;
+    text-align:center;
+}
+.image{
+    height:80vh;
+    width:80vh;
+    padding:10px;
+}
+.skills-heading{
+    color:yellow;
+    padding:5px;
+    font-style: italic;
+
+}
+.skills-image{
+    height:100px;
+    weight:100px;
+    padding:2px;
+    margin:5px;
+
+}
+.skill-card{
+    height:20vh;
+    width:20vh;
+    background-color:white;
+}
+.projects{
+    color:azure;
+    font-size:40px;
+    font-style:italic;
+}
+.project-card{
+    height:45vh;
+    width:45%;
+    background-color:azure;
+    padding:5px;
+    
+
+}
+.projects-image{
+    height:40vh;
+    width:40vh;
+}
+.projects-heading{
+    color:rgb(164, 164, 116);
+    font-weight:bold;
+    margin-left:5px;
+
+}
+.description-card{
+    height:45vh;
+    width:20%;
+    background-color:azure;
+    padding:5px;
+
+}
+.project-description{
+    color:rgb(182, 203, 203);
+    font-size:20px;
+}
+.card{
+    height:15vh;
+    width:90%;
+    background-color: beige;
+    margin:5px;
+}
+.Resume-title{
+    color:aqua;
+    font-size:7vh;
+    font-style:italic;
+}
+.link{
+    font-size:5vh;
+}
+.contact-section{
+    color:white;
+    font-style:italic;
+    font-size:7vh;
+}
+.mail{
+    height:40vh;
+    width:40vh;
+    color:dark;
+}
+.mail-address{
+    color:dark;
+
+}
